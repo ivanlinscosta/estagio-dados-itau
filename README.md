@@ -1,4 +1,4 @@
-# Analisando a base de dados, qual o tipo de ´publico (considerando gênero e idade) e o canal ideal para vender detereminado tipo de produto?
+# Analisando a base de dados, qual o tipo de ´publico (considerando gênero e idade)´ e o canal ideal para vender determinado tipo de produto?
 
 ## Roteiro de análise
 
@@ -6,7 +6,7 @@
 
 ![image](https://github.com/mathewsrc/matheus-ribeiro-cerqueira/assets/94936606/0fbbfb77-6312-4b9b-8289-7e6d669cff16)
 
-Nos últimos 3 anos, as categorias de produtos vestuário (164.688 unidades) e livros (163.000 unidades) apresentam o melhor resultado em termos de quantidade vendida.
+Nos últimos 3 anos, as categorias de produtos vestuário (164.688 unidades) e livros (163.000 unidades) apresentaram o melhor resultado em termos de quantidade vendida.
 
 ### Qual é o produto mais caro e mais barato?
 
@@ -18,7 +18,7 @@ O gráfico revela que todas as categorias partilham um preço mínimo de 10 dól
 
 ![image](https://github.com/mathewsrc/matheus-ribeiro-cerqueira/assets/94936606/d39bffce-ea45-4034-829c-b7d1b752d6cf)
 
-Com base no gráfico ‘Volume de Vendas por Categoria de Produto’ verifica-se que as categorias vestuário (225.322) e livros (223.876) foram as mais vendidas.
+Com base no gráfico 'Volume de Vendas por Categoria de Produto' verifica-se que as categorias vestuário (225.322) e livros (223.876) foram as mais vendidas.
 
 ### Qual produto tem o melhor e o pior NPS?
 
@@ -52,7 +52,7 @@ P-value: [0.25078299]
 There is no statistically significant difference between genders.
 ```
 
-Com base no gráfico ‘Volume de Vendas por Gênero’, a quantidade de produto vendido por gênero é quase a mesma. O 'Teste t independente 
+Com base no gráfico 'Volume de Vendas por Gênero', a quantidade de produto vendido por gênero é quase a mesma. O 'Teste t independente 
 de duas amostras para receitas com base no gênero' confirma que não há associação de quantidade por gênero.
 
 ### Quantos produtos foram vendidos por categoria de produto e faixa etária?
@@ -122,10 +122,10 @@ Com base nos resultados do teste ANOVA bidirecional para o efeito da categoria d
 O valor p é 0,352817, que é maior que o nível de significância de 0,05. Isto sugere que o efeito principal da 'Categoria de Produto' não é estatisticamente
 significativo sobre a 'Receita'.
 
-O valor p associado a 'Fonte' é 0,143412, que é maior que 0,05. Assim, o efeito principal da ‘Fonte’ não é estatisticamente significativo sobre a ‘Receita’.
+O valor p associado a 'Fonte' é 0,143412, que é maior que 0,05. Assim, o efeito principal da ´Fonte` não é estatisticamente significativo sobre a 'Receita'.
 
-O valor p para o efeito de interação é 0,172279, que é maior que 0,05. Assim, o efeito da interação entre ‘Categoria de Produto’ e ‘Fonte’ 
-não é estatisticamente significativo na ‘Receita’.
+O valor p para o efeito de interação é 0,172279, que é maior que 0,05. Assim, o efeito da interação entre 'Categoria de Produto' e 'Fonte' 
+não é estatisticamente significativo na 'Receita'.
 
 
 ### Conclusão
