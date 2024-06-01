@@ -24,17 +24,21 @@ Este README detalha a análise exploratória realizada nos dados de um e-commerc
 #### 2. QUAL O PRODUTO MAIS CARO E O MAIS BARATO?
 
 Analisando a faixa de preços dos produtos disponíveis foi possível notar que todas categorias de produtos possuem um **valor mínimo de 10** e um **valor máximo de 500.**
+
 ![image](https://github.com/GabrielRibeiro5402/Gabriel-Ribeiro-dos-Santos/assets/164082848/6b971d6a-f25b-4989-9205-9b66b0831bb5)
 
 #### 3. QUAL A CATEGORIA DE PRODUTO MAIS VENDIDA E MENOS VENDIDA? QUAL A CATEGORIA MAIS E MENOS CARA?
 A categoria de produto **mais vendida é Clothing** **com uma porcentagem de vendas totais de 30.1%**. Em contrapartida, a categoria **menos vendida é Home com uma porcentagem de vendas totais de 20%**, o que pode indicar uma necessidade de revisão de estratégias nesta categoria.
+
 ![image](https://github.com/GabrielRibeiro5402/Gabriel-Ribeiro-dos-Santos/assets/164082848/91eb0eaf-fba2-43da-a164-be65c2e3042d)
 
 Em termos de preços, **a categoria mais cara é Home, com um preço médio de 254.84, A categoria menos cara é Clothing, com um preço médio de 254.44.**
+
 ![image](https://github.com/GabrielRibeiro5402/Gabriel-Ribeiro-dos-Santos/assets/164082848/bc037351-f37f-4ede-ad49-52d98e556d33)
 
 #### 4. QUAL O PRODUTO COM MELHOR E PIOR NPS?
 **Todas** categorias possuem produtos com **NPS mínimo de 0 e máximo de 10**
+
 ![image](https://github.com/GabrielRibeiro5402/Gabriel-Ribeiro-dos-Santos/assets/164082848/dcd3512e-c264-44da-b048-91c5560f3fcd)
 
 O produto com o **melhor NPS** (Net Promoter Score) **médio é Home**, indicando um alto nível de satisfação. Por outro lado, o produto com o **pior NPS é Eletronics**, sugerindo que há áreas que necessitam de melhorias para atender melhor às expectativas dos clientes.
