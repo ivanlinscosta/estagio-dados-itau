@@ -1,0 +1,51 @@
+
+1. Quais os produtos mais vendidos considerando os últimos 3 anos?
+
+	Os produtos mais vendidos nos últimos 3 anos foram os da 
+	categoria 'ROUPAS', chegando a 182696 unidades.
+	
+
+2. Qual o produto mais caro e o mais barato?
+	
+	Produto mais caro: Eletrônico (Preço: $ 500)
+	Produto mais barato: Eletrônico (Preço: $ 10)
+	
+3. Qual a categoria de produto mais vendida e menos vendida? Qual a
+   categoria mais e menos cara?
+   
+   	Categoria Mais vendida: Roupas
+   	Categoria menos vendida: Produtos para o lar
+   	
+   	Categoria Mais cara: Produtos para o lar
+   	Categoria menos cara: Roupas
+   	
+4. Qual o produto com o melhor e pior NPS?
+
+	Melhor NPS: Produtos para o lar
+	Pior NPS: Eletrônicos
+
+
+
+Analisando a base de dados, qual o tipo de público(considerando gênero e idade) e o canal ideal para vender determinado tipo de produto?
+
+	Alisando os nossos dados, foi verificado que o nosso maior 
+	público estão concentrado entre 18-35 anos de idade. A quantidade
+	em relação a mesma faixa etária em diferentes gêneros são muito 
+	próximas. A medida que a idade aumenta, o número da distribuição
+	reduz. Isso muitas vezes se dá pelo fato de que os jovens e adultos
+	neste caso, estão mais familiarizados com a internet e o uso de 
+	aplicações e plataformas e da alta conectividade.
+	Foi verificado que o canal com mais venda de produtos foi através 
+	do 'Instagram Source' para este conjunto de dados. Mas é importante
+	realizar teste para saber se há um canal específico, preferido
+	pelos clientes, para isso foi usado um teste de hipótese para 	
+	variáveis categóricas, que é o Teste Qui-quadrado, para 
+	verificarmos a relação entre os canais de compras e as categorias 
+	de produtos.
+	Para o nosso resultado tivemos o valor p > 0.05, neste caso, não
+	há evidências suficientes para este caso para se rejeitar a 
+	Hipótese Nula (H0). Não há diferença significativa nas preferências
+	de compra entre diferentes canais para o produto.
+	
+	
+
